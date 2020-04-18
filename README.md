@@ -34,7 +34,7 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 ## Tecnologias
 
-Abaixo são listadas as tecnologias utilizadas no desenvolvimento do DevRadar:
+Abaixo são listadas as tecnologias utilizadas no desenvolvimento do BeTheHero:
 
 - [Node.js;](https://nodejs.org/en/)
 - [React;](https://reactjs.org)
@@ -76,7 +76,7 @@ yarn start
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:19002`. Conecte seu emulador, ou teste o aplicativo por `LAN`: baixe o aplicativo *Expo* da Play Store ou App Store e em seguida escaneie o código QR.
 
 ### Insomnia 
-Para testar a API do DevRadar, baixe e instale o [Insomnia](https://insomnia.rest/download/) e em seguida clique na Workspace → `Import/Export` → `Import Data` → `From File` → e selecione o arquivo `insomnia_export.json` neste repositório.
+Para testar a API do BeTheHero, baixe e instale o [Insomnia](https://insomnia.rest/download/) e em seguida clique na Workspace → `Import/Export` → `Import Data` → `From File` → e selecione o arquivo `insomnia_export.json` neste repositório.
 
 ## Notas
 
